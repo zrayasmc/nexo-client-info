@@ -14,9 +14,31 @@ The project uses its own application registered in **Microsoft Entra**. The auth
 
 This public repository provides project information for that approval request.
 
+## Development screenshots
+
+These are real screenshots of development builds. Features and visuals are still being refined; the images do not claim complete compatibility or visual parity.
+
+### Native Windows launcher
+
+Version selection and launch controls in the Nexo launcher.
+
+![Nexo Client native Windows launcher](docs/images/nexo-launcher.jpg)
+
+### Rust/Vulkan client — Minecraft Java Edition 1.8.9
+
+Controlled development test scene showing terrain, vegetation, clouds, the HUD and a held block. Work in progress.
+
+![Nexo Client Rust/Vulkan 1.8.9 development screenshot](docs/images/nexo-1.8.9.png)
+
+### Rust/Vulkan client — Minecraft Java Edition 1.7.10
+
+Controlled development test scene showing a first-person sword, terrain, vegetation, a pig and clouds. Work in progress.
+
+![Nexo Client Rust/Vulkan 1.7.10 development screenshot](docs/images/nexo-1.7.10.png)
+
 ## Repository scope
 
-This repository contains presentation documentation only. It does not distribute client source code, executables, JAR files, Minecraft resources, credentials, or private configuration files.
+This repository contains project presentation documentation and development screenshots only. It does not distribute client source code, executables, JAR files, Minecraft resources, credentials, or private configuration files.
 
 ## Affiliation
 
